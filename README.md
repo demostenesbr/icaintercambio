@@ -27,7 +27,7 @@ Para acessar e rodar as funcionalidades do projeto execute:
 `yarn start`
 
 - O projeto *mobile*, executando em packages/app:
-`expo start`
+`yarn start`
 
 ## Executando no Yarn
 
